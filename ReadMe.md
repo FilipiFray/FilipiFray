@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front Front end, Back and, Lógica de programação <br>Estou  no 2º ano de ADS<br>Tenho experiência em WorldPress<br>Estou em busca de Estágio<br>Meu desejo é trabalhar com desenvolvimento WEB com Foco na Engenharia. <br> <br>
+Sou estudante de Front Front end, Back and, Lógica de programação <br>Estou  no 1º ano de ADS<br>Tenho experiência em WorldPress<br>Estou em busca de Estágio<br>Meu desejo é trabalhar com desenvolvimento WEB com Foco na Engenharia. <br> <br>
 
 
 ## 🌐 Socials:
